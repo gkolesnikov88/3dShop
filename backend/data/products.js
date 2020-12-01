@@ -1,6 +1,5 @@
 const products = [
   {
-    _id: '1',
     name: 'Bugatti Chiron 2017 Sports Car',
     image: '/images/bugatti-chiron-31847.jpg',
     description:
@@ -13,7 +12,6 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: '2',
     name: 'Audi R8',
     image: '/images/audi-r8-14024.jpg',
     description:
@@ -26,7 +24,6 @@ const products = [
     numReviews: 8,
   },
   {
-    _id: '3',
     name: 'AC Cobra 269',
     image: '/images/l43146-ac-cobra-269-83668.jpg',
     description:
@@ -39,7 +36,6 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: '4',
     name: 'Sofa',
     image: '/images/sofa-3664.jpg',
     description:
@@ -52,7 +48,6 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: '5',
     name: 'Chair',
     image: '/images/chair-8922.jpg',
     description:
@@ -65,7 +60,6 @@ const products = [
     numReviews: 10,
   },
   {
-    _id: '6',
     name: 'Design Chair',
     image: '/images/design-chair-38271.jpg',
     description:
